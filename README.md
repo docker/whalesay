@@ -6,8 +6,9 @@ This repository has two modifications not present in the original:
 
 * the `default.cow` is now a Docker whale
 * a `docker.cow` was added
+* a modification to the `install.sh` to disable interactive feature
 
-This image is used in the Docker demo tutorial as a teaching tool.
+This code is used to build an image for use in the Docker demo tutorial. The image is used purely as a teaching tool.
 
 -------
 
