@@ -12,5 +12,3 @@ This image is used in the Docker demo tutorial as a teaching tool.
 -------
 
 Cowsay: Copyright (c) 1999 Tony Monroe. Tony Monroe (tony@nog.net)
-
-$Id: README,v 1.3 2000/05/28 06:24:46 tony Exp $
